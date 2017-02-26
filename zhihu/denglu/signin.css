@@ -1,0 +1,147 @@
+body{
+	background-color: #f7f9fb;
+}
+#container{
+	/*border:1px solid red;*/
+	height: 600px;
+	width: 400px;
+	margin: 0 auto;
+
+}
+.title{
+	height:150px;
+	width: 400px; 
+/*	border:1px solid red;*/
+
+}
+.zhihu{
+	margin-top: 30px;
+	margin-left: 100px;
+	height: 100px;
+	width: 400px;
+}
+.subtitle{
+	height: 50px;
+	width: 400px;
+	font-size: 20px;
+	font-family: 微软雅黑;
+	margin-left: 50px;
+	color: #60595b;
+
+}
+.zhuce{
+	height: 240px;
+	width: 400px;
+
+}
+.top{
+	margin-left: 150px;
+	height: 30px;
+	width: 400px;
+	position: relative;
+	margin-bottom: 10px;
+}
+.top a{
+	text-decoration: none;
+}
+.navs-signup{
+	margin-left: 100px;
+    width: 30px;
+    height: 2px;
+    background: #0f88eb;
+}
+.navs-signin{
+	margin-left: 145px;
+    width: 30px;
+    height: 2px;
+    background: #0f88eb;
+}
+
+/*.nav-slider-bar{
+	position: absolute;
+    left: -15px;
+    bottom: 0;
+    margin: 0 .8em;
+    width: 2.1em;
+    height: 2px;
+    background: #0f88eb;
+}*/
+.center{
+	height: 155px;
+	width: 400px;
+	margin-left: 50px;
+	z-index: 1px;
+	overflow: hidden;
+	margin-bottom: 17px;
+}
+.free{
+	width: 300px;
+	height: 26px;
+}
+.freet{
+	width: 300px;
+	height: 27px;
+	margin-top: 27px;
+}
+.account{
+	width: 300px;
+	height: 45px;
+}
+
+.bottom{
+	height: 60px;
+	width: 400px;
+}
+
+.rectangle{
+	height: 50px;
+	width: 310px;
+	margin: 0 auto;
+	background-color:#0e89eb;
+	border-radius: 5%;
+	margin-left: 47px;
+}
+.rectangle p{
+	font-size: 20px;
+	font-family: "微软雅黑";
+	margin-top:  20px;
+	line-height: 10px;
+	color: white;
+	font-size: 17px;
+}
+.explain{
+	height: 150px;
+	width: 400px;
+}
+.one{
+	margin-left: 25px;
+	width: 400px;
+	height: 80px;
+	margin-top: 20px;
+}
+.one a{text-decoration:none;
+	color: #9d9d9e;
+	}
+.one p{
+	font-size: 15px;
+	color: #9d9d9e;
+	margin-left: 20px;
+}
+.two{
+	margin-left: 50px;
+	height: 40px;
+	width: 305px;
+	border:1px solid #67b0eb;
+	border-radius: 10px;
+}
+.two a{
+	
+	margin-left: 160px;
+    text-decoration:none;
+    color: #67b0eb;
+}
+.two p{
+	margin-top: -1px;
+	margin-left: 120px;
+	font-size: 15px;
+}
